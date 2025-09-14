@@ -1,0 +1,6 @@
+# external.desc for Buildroot external tree
+# This file describes the external tree for Buildroot integration.
+
+name: aesd_assignments
+# Optional: version: 1.0
+# Optional: description: AESD assignments external tree for Buildroot
